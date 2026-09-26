@@ -1,10 +1,10 @@
 {
   "version": "1.4.3",
   "release_date": "2026-09-26",
-  "changelog": "Release v1.4.3: Version update.",
+  "changelog": "Release v1.4.3: Version update with zero-cache instant auto-update detection.",
   "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.3.zip",
   "size_mb": 88.49,
-  "size_bytes": 92792444,
-  "sha256": "883bef38a667f407c8bb442d1ee8c0a8bdd64790edcce090585f57405059dc2a",
+  "size_bytes": 92792649,
+  "sha256": "dc9d0bd07bb0b46e12bfb37fdb491519a555c28b1292769b75b962e09e56d2d1",
   "mandatory": false
 }
