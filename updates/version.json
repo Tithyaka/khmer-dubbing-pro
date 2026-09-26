@@ -1,10 +1,10 @@
 {
   "version": "1.4.0",
   "release_date": "2026-09-26",
-  "changelog": "Release v1.4: Fixed FFmpeg 0xC0000135 missing DLL runtime error, bundled full audio/video codecs and companion libraries, enhanced diagnostic engine and unicode path handling.",
+  "changelog": "Release v1.4: Fixed FFmpeg 0xC0000135 missing DLL runtime error, bundled full companion libraries, added seamless Auto-Update countdown and dynamic transformation flow.",
   "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.0.zip",
   "size_mb": 87.65,
-  "size_bytes": 91907817,
-  "sha256": "99c32a6c59dcf5be050601ff86e184a4a397a34724b4cf7a7a142b5240d179cc",
+  "size_bytes": 91908267,
+  "sha256": "a1ac91acdea9c8772e8985bbae1f1419fb703865d4a92add4d0c6495115d8259",
   "mandatory": false
 }
