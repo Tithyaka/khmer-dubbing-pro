@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "release_date": "2026-09-26",
-  "changelog": "Initial release with Online Auto-Updater, 3-Hour Free Trial, and Drag & Drop",
-  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.1.0.zip",
+  "changelog": "Update v1.2: Added Online Auto-Updater and 3-Hour Free Trial",
+  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.2.0.zip",
   "size_mb": 15.16,
-  "size_bytes": 15899209,
-  "sha256": "8e457f134498f8445ae91273c52027f044c647289c26f6536b2a22914488c8af",
+  "size_bytes": 15899210,
+  "sha256": "736d0b9a4ce27c9842b689d22851f98d0b145588734b006d9b98b6750286dcc6",
   "mandatory": false
 }
