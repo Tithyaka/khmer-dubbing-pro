@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "release_date": "2026-09-26",
-  "changelog": "Release v1.4: Fixed FFmpeg 0xC0000135 missing DLL runtime error, bundled full companion libraries, added seamless Auto-Update countdown and dynamic transformation flow.",
-  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.0.zip",
-  "size_mb": 87.65,
-  "size_bytes": 91908274,
-  "sha256": "e63781d45f48a44e9c0cabc611f8b2fcf1ef1134e7db439439743778baa91f0c",
+  "changelog": "Release v1.4.1: Added 100% Mute Original Audio mode (pure Khmer voice with zero bleed), enhanced vocal cut filters, Demucs AI vocal separator support, and 1-click Demucs installer.",
+  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.1.zip",
+  "size_mb": 88.49,
+  "size_bytes": 92788277,
+  "sha256": "211b38197ceecf8e5592ac0e5856e4cf79a90b83ebd8ebf15810033eafca3701",
   "mandatory": false
 }
