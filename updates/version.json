@@ -1,10 +1,10 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "release_date": "2026-09-26",
-  "changelog": "Release v1.4.2: Fixed NISAY Transcriber HTTP 503 error with 5x automatic retry, backoff, and chunked fallback. Added persistent interactive Update button in header near realtime Clock and License Key for instant manual or automatic updates.",
-  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.2.zip",
+  "changelog": "Release v1.4.3: Version update.",
+  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.3.zip",
   "size_mb": 88.49,
-  "size_bytes": 92792443,
-  "sha256": "e90d865e7f1f25a119b0eeed95aafd7360fb81498466b3c90219c050acf957f8",
+  "size_bytes": 92792444,
+  "sha256": "883bef38a667f407c8bb442d1ee8c0a8bdd64790edcce090585f57405059dc2a",
   "mandatory": false
 }
