@@ -1,10 +1,10 @@
 {
-  "version": "1.4.3",
-  "release_date": "2026-09-26",
-  "changelog": "Release v1.4.3: Version update with zero-cache instant auto-update detection.",
-  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.3.zip",
-  "size_mb": 88.49,
-  "size_bytes": 92792649,
-  "sha256": "dc9d0bd07bb0b46e12bfb37fdb491519a555c28b1292769b75b962e09e56d2d1",
+  "version": "1.4.4",
+  "release_date": "2026-09-28",
+  "changelog": "Release v1.4.4: NISAY AI Gateway v3.0 2-Stage Pipeline, Date Trial Key Activation, Enhanced Admin Keygen with Full Key Management & Revocation.",
+  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.4.zip",
+  "size_mb": 89.09,
+  "size_bytes": 93421427,
+  "sha256": "27fd8cfe830ac34172da428ebc9a474b11b4757edbf887aa5e2bcae2bfe45292",
   "mandatory": false
 }
