@@ -1,10 +1,10 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "release_date": "2026-09-28",
-  "changelog": "Release v1.4.4: NISAY AI Gateway v3.0 2-Stage Pipeline, Date Trial Key Activation, Admin Key Management & Revocation, Removed legacy 3h trial card.",
-  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.4.zip",
+  "changelog": "Release v1.4.5: Removed legacy 3-hour free trial card, updated to NISAY AI Gateway v3.0, Date Trial Key Activation.",
+  "download_url": "https://raw.githubusercontent.com/tithyaka/khmer-dubbing-pro/main/updates/patch_v1.4.5.zip",
   "size_mb": 89.09,
-  "size_bytes": 93420398,
-  "sha256": "e921b6111fa5555a2091f0b1221453e4b0c3a2838e5a2ecb8a751d1086d2b6f0",
+  "size_bytes": 93420399,
+  "sha256": "c358fb3df5c3e849ada07f0a5aaab62440235124916a81285fe56109036d0c92",
   "mandatory": false
 }
